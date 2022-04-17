@@ -1,0 +1,11 @@
+{
+    "version": 3,
+    "mappings": "ACAA,AACI,OADG,CACH,GAAG,CAAA;EAAC,eAAe,EAAE,GAAG;CAIvB",
+    "sources": [
+        "style.scss",
+        "_nav.scss",
+        "_section.scss"
+    ],
+    "names": [],
+    "file": "style.css"
+}
